@@ -1,0 +1,2 @@
+Prefix plugins/SAM2BED/example/
+Plugin SAM2BED inputfile merge.sam outputfile merge.bed
